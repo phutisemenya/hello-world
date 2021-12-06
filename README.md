@@ -1,2 +1,2 @@
 # hello-world
-I love PHP
+I love PHP too.
